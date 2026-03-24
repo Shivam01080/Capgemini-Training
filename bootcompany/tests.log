@@ -1,0 +1,230 @@
+256  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 58573 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+257  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+258  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1943 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.818 seconds (process running for 2.174)
+301  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 59053 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+302  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+302  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2149 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.006 seconds (process running for 2.505)
+2150 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+295  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62134 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+296  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+296  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+261  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62145 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+262  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+262  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+286  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62243 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+287  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+287  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2104 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.956 seconds (process running for 2.431)
+2105 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+278  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62365 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+279  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+279  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2091 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.949 seconds (process running for 2.404)
+2094 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+275  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62748 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+275  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+276  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2161 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.02 seconds (process running for 2.49)
+2162 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+248  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62833 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+249  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+249  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1978 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.856 seconds (process running for 2.204)
+1979 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+239  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 62849 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+239  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+240  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1950 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.832 seconds (process running for 2.205)
+1951 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+276  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 66396 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+277  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+277  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2268 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.129 seconds (process running for 2.647)
+2270 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+280  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 66950 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+281  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+282  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2273 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.129 seconds (process running for 2.594)
+2275 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+250  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 66985 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+251  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+251  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1959 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.839 seconds (process running for 2.205)
+1960 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+280  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67272 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+281  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+281  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2159 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.014 seconds (process running for 2.496)
+2161 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+333  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67651 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+333  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+334  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2272 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.079 seconds (process running for 2.65)
+2273 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+275  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67703 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+276  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+277  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2177 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.037 seconds (process running for 2.531)
+2178 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+239  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67793 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+239  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+239  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1932 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.811 seconds (process running for 2.152)
+1933 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+103606 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67793 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+103606 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+103606 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+103917 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 0.322 seconds (process running for 104.137)
+103918 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+235  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 67821 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+236  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+236  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1919 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.805 seconds (process running for 2.123)
+1920 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4392 [http-nio-8080-exec-1] DEBUG com.gal.api.DepartmentController - request for adding depDepartment [departmentId=66, depName=Unit department, managerId=203, establishedDate=2020-07-26]
+283  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 68636 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+284  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+284  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+274  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 68688 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+275  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+275  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+246  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 68703 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+247  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+247  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+275  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 68789 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+276  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+277  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2083 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.944 seconds (process running for 2.389)
+2084 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+316  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 68933 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+317  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+317  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2583 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.427 seconds (process running for 2.914)
+2584 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+278  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 69000 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+279  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+279  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2134 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.992 seconds (process running for 2.46)
+2135 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+275  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 69337 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+276  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+276  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2166 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.024 seconds (process running for 2.496)
+2167 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+332  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71133 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+333  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+333  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+242  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71221 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+243  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+243  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+249  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71230 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+250  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+250  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+236  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71241 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+237  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+238  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2023 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.904 seconds (process running for 2.257)
+2024 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+283  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71437 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+284  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+284  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2255 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.113 seconds (process running for 2.669)
+2256 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+272  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71501 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+272  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+273  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2160 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.021 seconds (process running for 2.473)
+2161 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+8263 [http-nio-8080-exec-1] DEBUG com.gal.api.AllocationController - Received allocation request: com.gal.model.AllocationData@6b2c4dd4
+290  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71637 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+291  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+292  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2206 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.051 seconds (process running for 2.545)
+2207 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+235  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71659 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+236  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+237  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2015 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.896 seconds (process running for 2.238)
+2016 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+37602 [http-nio-8080-exec-1] DEBUG com.gal.api.AllocationController - com.gal.model.AllocationData@21208fe9
+277  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 71799 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+278  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+278  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2165 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.023 seconds (process running for 2.483)
+2166 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+13662 [http-nio-8080-exec-3] INFO  com.gal.api.AllocationController - Request received: com.gal.model.AllocationData@7b65b07
+353225 [http-nio-8080-exec-5] INFO  com.gal.api.AllocationController - Request received: com.gal.model.AllocationData@6a66ba76
+359907 [http-nio-8080-exec-7] INFO  com.gal.api.AllocationController - Request received: com.gal.model.AllocationData@30592d7f
+435436 [http-nio-8080-exec-9] INFO  com.gal.api.AllocationController - Request received: com.gal.model.AllocationData@3bf2c9da
+280  [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 21.0.4 with PID 72498 (/Users/vaduniniranjan/Desktop/eclipse demo/bootcompany/target/classes started by vaduniniranjan in /Users/vaduniniranjan/Desktop/eclipse demo/bootcompany)
+281  [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+281  [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2248 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.107 seconds (process running for 2.687)
+2249 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+2626 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 8964 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2639 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+2641 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1655 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 19572 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1662 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1664 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1667 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 23344 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1673 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1674 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+10185 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 9.322 seconds (process running for 10.539)
+10191 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1073054 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 23344 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1073054 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1073056 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+1075563 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.619 seconds (process running for 1075.919)
+1075575 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1833 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 9312 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1841 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1842 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+11391 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 10.47 seconds (process running for 11.726)
+11402 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4005441 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 9312 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+4005441 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4005441 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4008333 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 3.035 seconds (process running for 4008.669)
+4008340 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+4084094 [http-nio-8085-exec-3] DEBUG com.gal.api.DepartmentController - request for adding depDepartment [departmentId=90, depName=Security, managerId=56, establishedDate=null]
+4506848 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 9312 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+4506848 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+4506848 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+4508899 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 2.102 seconds (process running for 4509.234)
+4508906 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+14144879 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 9312 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+14144880 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+14144881 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+14146618 [restartedMain] INFO  com.gal.BootcompanyApplication - Started BootcompanyApplication in 1.827 seconds (process running for 14146.952)
+14146620 [restartedMain] INFO  com.gal.BootcompanyApplication - application started successfully
+1401 [restartedMain] INFO  com.gal.BootcompanyApplication - Starting BootcompanyApplication using Java 17.0.10 with PID 3056 (C:\Users\HP\eclipse-workspace\bootcompany\target\classes started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1405 [restartedMain] DEBUG com.gal.BootcompanyApplication - Running with Spring Boot v3.5.11, Spring v6.2.16
+1406 [restartedMain] INFO  com.gal.BootcompanyApplication - No active profile set, falling back to 1 default profile: "default"
+2077 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 10544 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2079 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+2081 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+7091 [main] INFO  c.gal.api.DepartmentControllerTest - Started DepartmentControllerTest in 6.04 seconds (process running for 8.349)
+1779 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 20272 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+1781 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+1782 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+5641 [main] INFO  c.gal.api.DepartmentControllerTest - Started DepartmentControllerTest in 4.673 seconds (process running for 6.824)
+2376 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 7940 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2378 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+2380 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+2096 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 5712 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2099 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+2101 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+6955 [main] INFO  c.gal.api.DepartmentControllerTest - Started DepartmentControllerTest in 5.792 seconds (process running for 8.448)
+2160 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 19088 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2161 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+2163 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+6985 [main] INFO  c.gal.api.DepartmentControllerTest - Started DepartmentControllerTest in 5.833 seconds (process running for 8.712)
+2092 [main] INFO  c.gal.api.DepartmentControllerTest - Starting DepartmentControllerTest using Java 17.0.10 with PID 9624 (started by HP in C:\Users\HP\eclipse-workspace\bootcompany)
+2094 [main] DEBUG c.gal.api.DepartmentControllerTest - Running with Spring Boot v3.5.11, Spring v6.2.16
+2097 [main] INFO  c.gal.api.DepartmentControllerTest - No active profile set, falling back to 1 default profile: "default"
+6878 [main] INFO  c.gal.api.DepartmentControllerTest - Started DepartmentControllerTest in 5.759 seconds (process running for 8.377)
+7224 [main] DEBUG com.gal.api.DepartmentController - request for department with id: 1
+7532 [main] DEBUG com.gal.api.DepartmentController - request for department with id: 2000
