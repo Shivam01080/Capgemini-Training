@@ -1,0 +1,10 @@
+154419 [restartedMain] INFO  com.gal.TrainingdataApplication - Starting TrainingdataApplication using Java 17.0.10 with PID 27336 (C:\Users\HP\eclipse-workspace\assessment-spring\target\classes started by HP in C:\Users\HP\eclipse-workspace\assessment-spring)
+154420 [restartedMain] DEBUG com.gal.TrainingdataApplication - Running with Spring Boot v3.3.2, Spring v6.1.11
+154422 [restartedMain] INFO  com.gal.TrainingdataApplication - No active profile set, falling back to 1 default profile: "default"
+155792 [restartedMain] INFO  com.gal.TrainingdataApplication - Started TrainingdataApplication in 1.624 seconds (process running for 160.741)
+1433 [restartedMain] INFO  com.gal.TrainingdataApplication - Starting TrainingdataApplication using Java 17.0.10 with PID 20520 (C:\Users\HP\eclipse-workspace\assessment-spring\target\classes started by HP in C:\Users\HP\eclipse-workspace\assessment-spring)
+1438 [restartedMain] DEBUG com.gal.TrainingdataApplication - Running with Spring Boot v3.3.2, Spring v6.1.11
+1439 [restartedMain] INFO  com.gal.TrainingdataApplication - No active profile set, falling back to 1 default profile: "default"
+1451 [restartedMain] INFO  com.gal.TrainingdataApplication - Starting TrainingdataApplication using Java 17.0.10 with PID 10112 (C:\Users\HP\eclipse-workspace\assessment-spring\target\classes started by HP in C:\Users\HP\eclipse-workspace\assessment-spring)
+1457 [restartedMain] DEBUG com.gal.TrainingdataApplication - Running with Spring Boot v3.3.2, Spring v6.1.11
+1459 [restartedMain] INFO  com.gal.TrainingdataApplication - No active profile set, falling back to 1 default profile: "default"
